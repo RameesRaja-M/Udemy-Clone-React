@@ -36,12 +36,17 @@ Website Link : https://udemy-clone-react-dusky.vercel.app/
 | Deployment    | Vercel                                  |
 | Version Control | Git & GitHub                          |
 
+
 ## Screen Shot :
 
-![w1](https://github.com/user-attachments/assets/86e9d989-5c19-492a-b308-bae760248cd4)
+![u1](https://github.com/user-attachments/assets/8ce6fa0d-cea1-4bc4-aad1-4c8952dff7d8)
 
-![w2](https://github.com/user-attachments/assets/1359fbd1-06b1-4a43-947a-12f36fafef24)
+![u2](https://github.com/user-attachments/assets/aef3ab71-cb78-479a-97ee-4ab78046d4a1)
 
-![w3](https://github.com/user-attachments/assets/151ff895-a38a-4523-94e0-8fe0fc45f425)
+![u3](https://github.com/user-attachments/assets/92081dc5-e63b-49bb-8f2e-45de1b265567)
+
+![u4](https://github.com/user-attachments/assets/72703510-b927-407b-992f-c6c9070ce429)
+
+
 
 
